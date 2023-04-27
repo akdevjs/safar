@@ -1,6 +1,4 @@
-import { FC } from "react";
-
-const Header: FC = () => {
+const Header = () => {
   return (
     <header className="flex justify-between items-center text-xl py-8 px-12 text-[#000B69]">
       {/* Right Logo */}

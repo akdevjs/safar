@@ -1,6 +1,5 @@
-import { FC } from "react";
-
-const Hero: FC = () => {
+/* eslint-disable @next/next/no-img-element */
+const Hero = () => {
   return (
     <section className="w-full">
       {/* Top Images  */}
